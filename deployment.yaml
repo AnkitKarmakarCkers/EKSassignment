@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: getting-started-app
-          image: 970547372017.dkr.ecr.us-east-1.amazonaws.com/project/react
+          image: 509399635098.dkr.ecr.eu-north-1.amazonaws.com/newrepo
           ports:
             - containerPort: 3000
           volumeMounts:
